@@ -90,4 +90,4 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-Gautam
+Gautam Gowda
