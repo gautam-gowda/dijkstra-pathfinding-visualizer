@@ -30,6 +30,23 @@ It combines **graph algorithms with real-time visualization**, making it both an
 
 ---
 
+## ⏱️ Time Complexity
+- Dijkstra: O((V + E) log V)
+where:
+
+V = number of vertices (cities)
+E = number of edges (roads)
+
+---
+
+## 🏗️ Internal Working
+- Graph stored as adjacency list
+- Priority queue used for selecting minimum distance node
+- Relaxation performed on edges
+
+  
+---
+
 ## 🛠️ Tech Stack
 
 * C++
