@@ -39,10 +39,20 @@ E = number of edges (roads)
 
 ---
 
-## 🏗️ Internal Working
-- Graph stored as adjacency list
-- Priority queue used for selecting minimum distance node
-- Relaxation performed on edges
+## 🧠 Internal Design
+
+- Graph stored using adjacency list
+- Dijkstra implemented using priority queue (min-heap)
+- SFML used for rendering nodes and edges
+- Event handling for mouse-based interaction
+
+---
+
+## ⚠️ Edge Cases Handled
+
+- Same source and destination
+- No path available
+- Invalid user input
 
   
 ---
