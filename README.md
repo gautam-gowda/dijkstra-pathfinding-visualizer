@@ -34,7 +34,7 @@ It combines **graph algorithms with real-time visualization**, making it both an
 - Dijkstra: O((V + E) log V)
 where:
 
-V = number of vertices (cities)
+V = number of vertices (cities)  and 
 E = number of edges (roads)
 
 ---
